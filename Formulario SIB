@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T21:02:24.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ddj3cPceb92eJCJs2Pfa" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T21:46:38.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="W9Ch9SqoNplJ_aVQnIfC" version="14.4.9" type="github">
   <diagram id="C3QJwDtTjucXgMXlISAk" name="Page-1">
     <mxGraphModel dx="1716" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -1199,7 +1199,7 @@
           <mxGeometry x="30" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DJ_d_2tDBJbAPobrGudW-484" value="Diccionario_Perfil_Transaccional" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;strokeColor=#D0CEE2;fillColor=#5D7F99;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="1458" y="41.38" width="180" height="220" as="geometry" />
+          <mxGeometry x="1441" y="30" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DJ_d_2tDBJbAPobrGudW-485" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DJ_d_2tDBJbAPobrGudW-484">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
