@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T05:25:57.899Z" agent="5.0 (Windows)" etag="oQUebPqzpqT2yMQt4FO2" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T05:36:18.314Z" agent="5.0 (Windows)" etag="PA5Nz1itjs259SXqAz9j" version="15.3.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2090" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2297" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NucuLIy5InRsW4uWljz4-163" value="Consulta" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;hachureGap=4;pointerEvents=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="-40" width="180" height="390" as="geometry" />
+          <mxGeometry x="-190" y="-160" width="180" height="450" as="geometry" />
         </mxCell>
         <mxCell id="NucuLIy5InRsW4uWljz4-164" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#0F8B8D;fontColor=#143642;" parent="NucuLIy5InRsW4uWljz4-163" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -443,6 +443,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYUwKPih4lIRwCj65yyL-139" value="clinica_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="HYUwKPih4lIRwCj65yyL-137">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYUwKPih4lIRwCj65yyL-150" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;hachureGap=4;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="NucuLIy5InRsW4uWljz4-163">
+          <mxGeometry y="380" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYUwKPih4lIRwCj65yyL-151" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="HYUwKPih4lIRwCj65yyL-150">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYUwKPih4lIRwCj65yyL-152" value="consulta_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="HYUwKPih4lIRwCj65yyL-150">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYUwKPih4lIRwCj65yyL-153" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;hachureGap=4;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="NucuLIy5InRsW4uWljz4-163">
+          <mxGeometry y="410" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYUwKPih4lIRwCj65yyL-154" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="HYUwKPih4lIRwCj65yyL-153">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYUwKPih4lIRwCj65yyL-155" value="comentario_medico" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="HYUwKPih4lIRwCj65yyL-153">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
